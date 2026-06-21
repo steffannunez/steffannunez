@@ -74,17 +74,6 @@ Co-founder of **[Vrandy SpA](https://med.vrandy.cl)** and **Bfrost Studio** — 
 
 ---
 
-## 📌 Featured Repos
-
-<div align="center">
-
-[![gamedev-mcp](https://github-readme-stats-sigma-roan-70.vercel.app/api/pin/?username=steffannunez&repo=gamedev-mcp&theme=github_dark&hide_border=true)](https://github.com/steffannunez/gamedev-mcp)
-[![fastchecker](https://github-readme-stats-sigma-roan-70.vercel.app/api/pin/?username=steffannunez&repo=fastchecker&theme=github_dark&hide_border=true)](https://github.com/steffannunez/fastchecker)
-
-</div>
-
----
-
 ## 🏢 Experience Timeline
 
 ```
