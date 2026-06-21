@@ -36,5 +36,28 @@ Este repo (`steffannunez`) tiene el **mismo nombre que tu usuario de GitHub**, p
 - ⚠️ Las fechas del timeline tenían un solapamiento en el ejemplo (MercadoLibre 2023→2024 vs Toteat 2024→2025): revisar que el orden cronológico refleje tu historia real.
 - El archivo `README (2).md` es el **ejemplo original** que pasaste; podés borrarlo cuando quieras.
 
+## Stats privados — self-host de github-readme-stats
+La instancia pública corre con un token ajeno → NO ve tus repos privados.
+Para que la card cuente tu trabajo privado, self-hosteá con tu propio PAT:
+
+1. **Fork:** `github.com/anuraghazra/github-readme-stats` → Fork.
+2. **PAT:** GitHub → Settings → Developer settings → Tokens (classic) →
+   scope **`repo`** → generar y copiar.
+3. **Vercel:** Import del fork → env var `PAT_1` = tu token → Deploy.
+4. **URL resultante:** `https://TU-DEPLOY.vercel.app/api?username=steffannunez...`
+5. **Swap:** cambiar en este README las URLs de:
+   - GitHub Stats (`/api?...`)
+   - Top languages (`/api/top-langs/?...`)
+   - Pin cards x2 (`/api/pin/?...`)
+   de `github-readme-stats.vercel.app` → `TU-DEPLOY.vercel.app`.
+   (El streak usa otro servicio: `github-readme-streak-stats.herokuapp.com`, no se toca.)
+
+Notas:
+- Con tu PAT, `count_private=true` cuenta el último año incluyendo privados.
+  Para all-time podés probar sumar `include_all_commits=true`.
+- ⚠️ El PAT es secreto: solo va como env var en Vercel. Nunca commitearlo.
+- Activar también: GitHub → Settings → Profile → `Include private contributions`
+  (esto llena el contribution graph, independiente de la card).
+
 ## Deploy
 Commit + push a `main` de este repo. GitHub lo refleja en el perfil al instante.

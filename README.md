@@ -65,10 +65,10 @@ Co-founder of **[Vrandy SpA](https://med.vrandy.cl)** and **Bfrost Studio** — 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=steffannunez&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats-sigma-roan-70.vercel.app/api?username=steffannunez&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=steffannunez&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steffannunez&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats-sigma-roan-70.vercel.app/api/top-langs/?username=steffannunez&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
 
 </div>
 
@@ -78,8 +78,8 @@ Co-founder of **[Vrandy SpA](https://med.vrandy.cl)** and **Bfrost Studio** — 
 
 <div align="center">
 
-[![gamedev-mcp](https://github-readme-stats.vercel.app/api/pin/?username=steffannunez&repo=gamedev-mcp&theme=github_dark&hide_border=true)](https://github.com/steffannunez/gamedev-mcp)
-[![fastchecker](https://github-readme-stats.vercel.app/api/pin/?username=steffannunez&repo=fastchecker&theme=github_dark&hide_border=true)](https://github.com/steffannunez/fastchecker)
+[![gamedev-mcp](https://github-readme-stats-sigma-roan-70.vercel.app/api/pin/?username=steffannunez&repo=gamedev-mcp&theme=github_dark&hide_border=true)](https://github.com/steffannunez/gamedev-mcp)
+[![fastchecker](https://github-readme-stats-sigma-roan-70.vercel.app/api/pin/?username=steffannunez&repo=fastchecker&theme=github_dark&hide_border=true)](https://github.com/steffannunez/fastchecker)
 
 </div>
 
